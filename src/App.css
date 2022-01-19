@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+input {
+  margin: 2px;
+}
+
+button {
+  padding: 3px;
+  margin: 5px;
+  border-radius: 7px;
+}
+
+.movieListing {
+
+  padding: 8px;
+  margin: 5px;
+  border: 1px solid turquoise;
+  
+  }
